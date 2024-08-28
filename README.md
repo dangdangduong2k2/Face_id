@@ -1,4 +1,3 @@
-
-*đặt lại thư mục chứa hình nền 
-*tạo thêm 2 folder để chứa dữ liệu trước và sau khi train, đặt tên theo code và chỉnh đường dẫn theo sao cho phù hợp
-#thời gian hoàn thành: 27/12/2021
+*Reset the wallpaper directory.
+*Create two additional folders to store data before and after training. Name them according to the code and adjust the paths accordingly.
+*Completion date: 27/12/2021.
